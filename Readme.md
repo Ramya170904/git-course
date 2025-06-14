@@ -1,3 +1,1 @@
-This is my first project
-author - Ramya
-company - Telusko
+"# git-course demo" 
